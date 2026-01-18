@@ -1,5 +1,17 @@
 # Huining-JIAO
 
+- **Project**: Binary Classification of Motor Imagery from EEG Signals
+- **Skills & Methods**: Proficient in MNE for building complete EEG analysis workflows (data acquisition → preprocessing → feature extraction → model training → visualization). Mastered classical EEG algorithms including CSP for spatial filtering and LDA for classification.
+- **Core Work**:
+  1. Efficiently interfaced with public EEG datasets (e.g., BCI Competition IV 2a).
+  2. Implemented high-quality preprocessing pipelines (filtering, rereferencing, epoching).
+  3. Applied EEG decoding: optimized spatial feature extraction using CSP (via grid search) combined with LDA classifiers.
+  4. Conducted comprehensive evaluation (within-subject & cross-subject analysis, cross-validation) and visualization (topomaps, time-frequency analysis, parameter tuning curves).
+- **Key Achievements**:
+  1. Established a valid end-to-end pipeline, achieving classification accuracy significantly above chance (~67%) in within-subject analysis.
+  2. Identified and analyzed the key challenge of model performance degradation in naive cross-subject data merging (~44% accuracy), providing clear direction for future improvement using feature alignment or domain adaptation techniques.
+  3. Created a reusable, modular EEG analysis template that ensures reproducibility.
+
 **Project Title:** Heart Disease Prediction – Binary Classification Project  
 
 **Skills Applied:**  
