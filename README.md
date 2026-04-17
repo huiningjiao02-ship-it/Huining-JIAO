@@ -1,7 +1,7 @@
 # EEG Research Projects
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-EEG_Conformer-blue?logo=github)](https://github.com/huiningjiao02-ship-it/EEG-Conformer-Replication-Cross-Dataset-Adaptation-for-Motor-Imagery-Decoding)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-EEG_Emotion_LibEER-green?logo=github)](https://github.com/huiningjiao02-ship-it/EEG-based-Emotion-Recognition-Aligned-with-IEEE-TAFFC-2025-LibEER-Benchmark-Introduction)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-EEG_Emotion_LibEER-green?logo=github)](https://github.com/huiningjiao02-ship-it/EEG-based-Emotion-Recognition-Aligned-with-IEEE-TAFFC-2025-LibEER-Benchmark-)
 
 This repository contains two independent EEG deep learning projects:
 
@@ -28,7 +28,7 @@ The project verifies the classification performance and generalization capabilit
 
 ## 😊 Project 2: EEG‑based Emotion Recognition (LibEER Benchmark)
 
-[![View Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/huiningjiao02-ship-it/EEG-based-Emotion-Recognition-Aligned-with-IEEE-TAFFC-2025-LibEER-Benchmark-Introduction)
+[![View Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/huiningjiao02-ship-it/EEG-based-Emotion-Recognition-Aligned-with-IEEE-TAFFC-2025-LibEER-Benchmark-)
 
 ### Introduction
 
@@ -49,7 +49,7 @@ The goal is to provide a **rapidly reproducible and easily extensible** baseline
 | Project | Description | GitHub Link |
 | :--- | :--- | :--- |
 | EEG‑Conformer | Motor imagery decoding on eegmmidb (64‑ch) | [Repo](https://github.com/huiningjiao02-ship-it/EEG-Conformer-Replication-Cross-Dataset-Adaptation-for-Motor-Imagery-Decoding) |
-| EEG Emotion (LibEER) | 3‑class emotion classification with 1D‑CNN | [Repo](https://github.com/huiningjiao02-ship-it/EEG-based-Emotion-Recognition-Aligned-with-IEEE-TAFFC-2025-LibEER-Benchmark-Introduction) |
+| EEG Emotion (LibEER) | 3‑class emotion classification with 1D‑CNN | [Repo](https://github.com/huiningjiao02-ship-it/EEG-based-Emotion-Recognition-Aligned-with-IEEE-TAFFC-2025-LibEER-Benchmark-) |
 
 ---
 
